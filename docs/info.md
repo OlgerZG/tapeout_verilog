@@ -9,12 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project adds up the first the inputs (input 0-3 + input 4-7), the output bits 0-5 are the result of the addition.
 
 ## How to test
-
-Explain how to use your project
-
+Check the outputs 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hw required 
