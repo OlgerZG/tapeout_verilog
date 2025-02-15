@@ -2,7 +2,7 @@
 project:
   title:        "Input Adder"      # Project title
   author:       "Olger"      # Your name
-  discord:      "a"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "a2"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "It adds input 0-3 and 4-7"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
